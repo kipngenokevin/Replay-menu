@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+    color: #fff;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    font-weight: 700;
+    vertical-align: middle;
+}
+
+.bold-serif-text {
+    font-family: "Playfair Display", serif;
+    font-weight: 800;
+}
+
+.breakfast-background {
+    background: url('../images/image722.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 100px 0px;
+}
+
+.main-dish-background {
+    background: url('../images/image1097.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 100px 0px;
+}
+
+.curries-background {
+    background: url('../images/image1482.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 100px 0px;
+}
+
+.dark-background {
+    background: rgba(12, 12, 27, 0.5);
+}
+
+.brown-text {
+    color: rgb(219, 157, 77);
+}
+
+.white-text {
+    color: #fff;
+}
+
+.light-text {
+    font-weight: 200;
+}
+
+.small-text {
+    font-size: small;
+}
+
+@media only screen and (max-width: 768px) {
+    .breakfast-background {
+        padding: 50px 0px;
+    }
+
+    .main-dish-background {
+        padding: 50px 0px;
+    }
+
+    .curries-background {
+        padding: 50px 0px;
+    }
+  }
