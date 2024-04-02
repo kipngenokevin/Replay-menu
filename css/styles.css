@@ -72,12 +72,33 @@ td {
     padding: 100px 0px;
 }
 
+.cocktails-background {
+    background: url('../images/drinks4.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 100px 0px;
+}
+
+.blue-background {
+    background: rgb(50, 50, 195);
+}
+
+.golden-border {
+    border: rgb(219, 157, 77) 1px solid;
+}
+
 .dark-background {
     background: rgba(12, 12, 27, 0.5);
 }
 
 .brown-text {
     color: rgb(219, 157, 77);
+}
+
+.black-text {
+    color: #000;
 }
 
 .white-text {
