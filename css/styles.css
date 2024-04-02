@@ -45,6 +45,33 @@ td {
     padding: 100px 0px;
 }
 
+.drinks-page-1 {
+    background: url('../images/drinks1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 100px 0px;
+}
+
+.drinks-page-2 {
+    background: url('../images/drinks2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 100px 0px;
+}
+
+.drinks-page-3 {
+    background: url('../images/drinks3.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 100px 0px;
+}
+
 .dark-background {
     background: rgba(12, 12, 27, 0.5);
 }
