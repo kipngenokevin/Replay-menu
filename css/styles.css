@@ -82,6 +82,24 @@ td {
     padding: 100px 0px;
 }
 
+.wine-page-1 {
+    background: url('../images/drinks5.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 100px 0px;
+}
+
+.wine-page-2 {
+    background: url('../images/drinks6.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 100px 0px;
+}
+
 .blue-background {
     background: rgb(19, 19, 92);
 }
